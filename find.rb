@@ -1,4 +1,4 @@
-!# usr/bin/env ruby
+!# usr/bin/ruby ruby
 
 # puts (1..10).find {|i| i==5}
 # puts (1..10).detect {|i| i==5}
