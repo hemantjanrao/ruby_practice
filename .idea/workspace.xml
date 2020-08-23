@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31285d50-a9f5-4bbc-b003-c977cc011e13" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/inject.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blanks.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/animal.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/dice.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/person.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/pig.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meth.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vars.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find.rb" beforeDir="false" afterPath="$PROJECT_DIR$/find.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,61 +21,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/untitled1@inject_reduce.rcov" NAME="inject_reduce Coverage Results" MODIFIED="1598187807941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@merge.rcov" NAME="merge Coverage Results" MODIFIED="1598190161887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@blanks.rcov" NAME="blanks Coverage Results" MODIFIED="1598190840820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
     <SUITE FILE_PATH="coverage/untitled1@map.rcov" NAME="map Coverage Results" MODIFIED="1597954137362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@dice.rcov" NAME="dice Coverage Results" MODIFIED="1598208743301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@init.rcov" NAME="init Coverage Results" MODIFIED="1598204680375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@person.rcov" NAME="person Coverage Results" MODIFIED="1598204672059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@pig.rcov" NAME="pig Coverage Results" MODIFIED="1598199575276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@inject_reduce.rcov" NAME="inject_reduce Coverage Results" MODIFIED="1598187807941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@vars.rcov" NAME="vars Coverage Results" MODIFIED="1598191791945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
     <SUITE FILE_PATH="coverage/untitled1@inject.rcov" NAME="inject Coverage Results" MODIFIED="1597954201187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
     <SUITE FILE_PATH="coverage/untitled1@games.rcov" NAME="games Coverage Results" MODIFIED="1597949965396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
     <SUITE FILE_PATH="coverage/untitled1@sort.rcov" NAME="sort Coverage Results" MODIFIED="1598188876196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@intilize.rcov" NAME="animal Coverage Results" MODIFIED="1598207112731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" MODULE_NAME="untitled1" />
     <SUITE FILE_PATH="coverage/untitled1@find.rcov" NAME="find Coverage Results" MODIFIED="1597952626057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
+    <SUITE FILE_PATH="coverage/untitled1@meth.rcov" NAME="meth Coverage Results" MODIFIED="1598191143296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled1" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="map.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/map.rb">
+      <file leaf-file-name="animal.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/animal.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="find.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/find.rb">
+      <file leaf-file-name="init.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/init.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state>
+              <caret selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inject_reduce.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inject_reduce.rb">
+      <file leaf-file-name="person.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/person.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="57">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sort.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sort.rb">
+      <file leaf-file-name="dice.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/dice.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="361">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inject.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inject.rb">
+      <file leaf-file-name="pig.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/pig.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="247">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,6 +107,16 @@
         <option value="$PROJECT_DIR$/find.rb" />
         <option value="$PROJECT_DIR$/inject_reduce.rb" />
         <option value="$PROJECT_DIR$/sort.rb" />
+        <option value="$PROJECT_DIR$/merge.rb" />
+        <option value="$PROJECT_DIR$/blanks.rb" />
+        <option value="$PROJECT_DIR$/meth.rb" />
+        <option value="$PROJECT_DIR$/vars.rb" />
+        <option value="$PROJECT_DIR$/init.rb" />
+        <option value="$PROJECT_DIR$/classes/pig.rb" />
+        <option value="$PROJECT_DIR$/classes/person.rb" />
+        <option value="$PROJECT_DIR$/classes/intilize.rb" />
+        <option value="$PROJECT_DIR$/classes/animal.rb" />
+        <option value="$PROJECT_DIR$/classes/dice.rb" />
       </list>
     </option>
   </component>
@@ -109,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,11 +148,15 @@
               <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,11 +177,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.sort">
-    <configuration name="find" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.dice">
+    <configuration name="animal" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled1" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/classes" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -156,13 +192,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/find.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/classes/animal.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="inject" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="dice" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled1" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/classes" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -173,10 +209,10 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/inject.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/classes/dice.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="inject_reduce" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="init" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled1" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -190,13 +226,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/inject_reduce.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/init.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="map" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="person" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled1" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/classes" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -207,13 +243,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/map.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/classes/person.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="sort" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="pig" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled1" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/classes" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -224,23 +260,23 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/sort.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/classes/pig.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <list>
-      <item itemvalue="Ruby.find" />
-      <item itemvalue="Ruby.map" />
-      <item itemvalue="Ruby.inject" />
-      <item itemvalue="Ruby.inject_reduce" />
-      <item itemvalue="Ruby.sort" />
+      <item itemvalue="Ruby.init" />
+      <item itemvalue="Ruby.pig" />
+      <item itemvalue="Ruby.person" />
+      <item itemvalue="Ruby.animal" />
+      <item itemvalue="Ruby.dice" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.sort" />
-        <item itemvalue="Ruby.inject_reduce" />
-        <item itemvalue="Ruby.inject" />
-        <item itemvalue="Ruby.map" />
-        <item itemvalue="Ruby.find" />
+        <item itemvalue="Ruby.dice" />
+        <item itemvalue="Ruby.animal" />
+        <item itemvalue="Ruby.init" />
+        <item itemvalue="Ruby.person" />
+        <item itemvalue="Ruby.pig" />
       </list>
     </recent_temporary>
   </component>
@@ -256,25 +292,26 @@
       <option name="presentableId" value="Default" />
       <updated>1597948703507</updated>
       <workItem from="1597948705433" duration="4040000" />
-      <workItem from="1598186112263" duration="826000" />
+      <workItem from="1598186112263" duration="6781000" />
+      <workItem from="1598208407748" duration="390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4866000" />
+    <option name="totallyTimeSpent" value="11211000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1792" height="1010" extended-state="6" />
+    <frame x="0" y="23" width="1792" height="1010" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500558" side_tool="true" weight="0.32905984" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49944195" visible="true" weight="0.32905984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -296,10 +333,45 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/classes/animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/person.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/pig.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/dice.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/map.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -374,6 +446,183 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blanks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meth.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vars.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/ping.eb" />
+    <entry file="uml://Ruby/Pig">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>Pig</OriginalElement>
+          <nodes>
+            <node x="125.0" y="0.0">Kernel</node>
+            <node x="123.25" y="158.0">Pig</node>
+            <node x="25.25" y="158.0">Module</node>
+            <node x="31.25" y="237.0">Class</node>
+            <node x="70.0" y="79.0">Object</node>
+            <node x="0.0" y="0.0">BasicObject</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Object" target="BasicObject">
+              <point x="-18.25" y="-14.5" />
+              <point x="88.25" y="54.0" />
+              <point x="52.5" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Class" target="Module">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Object" target="Kernel">
+              <point x="18.25" y="-14.5" />
+              <point x="124.75" y="54.0" />
+              <point x="160.5" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Module" target="Object">
+              <point x="0.0" y="-14.5" />
+              <point x="64.25" y="133.0" />
+              <point x="88.25" y="133.0" />
+              <point x="-18.25" y="14.5" />
+            </edge>
+            <edge source="Pig" target="Object">
+              <point x="0.0" y="-14.5" />
+              <point x="148.75" y="133.0" />
+              <point x="124.75" y="133.0" />
+              <point x="18.25" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-334.0" y="85.0" />
+          <SelectedNodes>
+            <node>Pig</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/Person">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>Person</OriginalElement>
+          <nodes>
+            <node x="125.0" y="0.0">Kernel</node>
+            <node x="19.5" y="158.0">Module</node>
+            <node x="117.5" y="158.0">Person</node>
+            <node x="25.5" y="237.0">Class</node>
+            <node x="70.0" y="79.0">Object</node>
+            <node x="0.0" y="0.0">BasicObject</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Object" target="BasicObject">
+              <point x="-18.25" y="-14.5" />
+              <point x="88.25" y="54.0" />
+              <point x="52.5" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Class" target="Module">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Object" target="Kernel">
+              <point x="18.25" y="-14.5" />
+              <point x="124.75" y="54.0" />
+              <point x="160.5" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Module" target="Object">
+              <point x="0.0" y="-14.5" />
+              <point x="58.5" y="133.0" />
+              <point x="88.25" y="133.0" />
+              <point x="-18.25" y="14.5" />
+            </edge>
+            <edge source="Person" target="Object">
+              <point x="0.0" y="-14.5" />
+              <point x="154.5" y="133.0" />
+              <point x="124.75" y="133.0" />
+              <point x="18.25" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-334.0" y="85.0" />
+          <SelectedNodes>
+            <node>Object</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs25/module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="336" column="8" selection-start-line="336" selection-start-column="8" selection-end-line="336" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/pig.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/person.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/dice.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
